@@ -54,6 +54,9 @@
 		115C0509246E283000EAF3A6 /* RegularExpressionUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RegularExpressionUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		115C050D246E283000EAF3A6 /* RegularExpressionUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RegularExpressionUITests.m; sourceTree = "<group>"; };
 		115C050F246E283000EAF3A6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		870DF1942A1083DA00C8D3CE /* ReadME.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = ReadME.md; sourceTree = "<group>"; };
+		870DF1952A10892900C8D3CE /* PreprocessorMacro.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PreprocessorMacro.h; sourceTree = "<group>"; };
+		870DF1962A10CC6D00C8D3CE /* PredicateGuide.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = PredicateGuide.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +113,9 @@
 				115C04EA246E282F00EAF3A6 /* SceneDelegate.m */,
 				115C04EC246E282F00EAF3A6 /* ViewController.h */,
 				115C04ED246E282F00EAF3A6 /* ViewController.m */,
+				870DF1952A10892900C8D3CE /* PreprocessorMacro.h */,
+				870DF1962A10CC6D00C8D3CE /* PredicateGuide.md */,
+				870DF1942A1083DA00C8D3CE /* ReadME.md */,
 				115C04EF246E282F00EAF3A6 /* Main.storyboard */,
 				115C04F2246E283000EAF3A6 /* Assets.xcassets */,
 				115C04F4246E283000EAF3A6 /* LaunchScreen.storyboard */,
